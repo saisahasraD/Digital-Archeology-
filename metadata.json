@@ -1,0 +1,5 @@
+{
+  "name": "AI Vision Text Pro",
+  "description": "AI-powered image text extraction, correction, and multi-language translation using Gemini.",
+  "requestFramePermissions": []
+}
